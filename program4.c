@@ -1,3 +1,5 @@
+//Wap to tokenize a given string (rules to be given)
+
 #include <stdio.h>
 #include <string.h>
 
