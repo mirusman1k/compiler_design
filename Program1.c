@@ -1,3 +1,5 @@
+//Wap to check if the entered string is a valid keyword or nor (rules to be given).
+
 #include <stdio.h>
 #include <string.h>
 
